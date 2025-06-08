@@ -1,0 +1,2 @@
+# To run the LLM
+ollama run llama3.2
